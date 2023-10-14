@@ -1,0 +1,17 @@
+[
+    {
+        "timestamp": "2023-01-02 01:02:34",
+        "captor_id": "42326a90-6aae-11ee-a361-4339b9d98b6a",
+        "temperature": 77.2
+    },
+    {
+        "timestamp": "2023-01-02 01:02:35",
+        "captor_id": "42326a90-6aae-11ee-a361-4339b9d98b6a",
+        "temperature": 78.7
+    },
+    {
+        "timestamp": "2023-01-02 01:02:33",
+        "captor_id": "42326a90-6aae-11ee-a361-4339b9d98b6a",
+        "temperature": 80.5
+    }
+]
