@@ -1,6 +1,6 @@
-# json-sax-py
+# json-stream
 
-Stream JSON parser (SAX parser)
+JSON stream parser (SAX parser)
 
 ## About
 
